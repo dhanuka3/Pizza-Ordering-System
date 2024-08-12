@@ -1,0 +1,63 @@
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Sem.4\C# Projects\KKPizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Pizza Ordering System C#\Pizza Ordering System\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Janobe\Downloads\Compressed\PIZZA_ORDERING_SYSTEM_IN_C_WITH_SOURCE_CODE_bSpahhq\Pizza Ordering System C#\PizzaOrderingSystemC# pr\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Dhanuka Dilshan\Desktop\011111\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Dhanuka Dilshan\Desktop\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+G:\NIBM\Thered semester\GUI project\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
